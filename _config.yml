@@ -1,0 +1,28 @@
+name: Promo Products
+favicon: null
+layout_spectrum: 0.06991618359461427
+typography_spectrum: 0.8070767868775874
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5706967122387141
+  lightness: 0.5159437423571944
+  saturation: 0.7512238584458828
+  rhythmicContrast: 0.19975607586093247
+purpose: []
